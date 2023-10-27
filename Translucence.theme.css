@@ -19,8 +19,8 @@
 	--app-radius: 8px; /*	-	*/
 	
 	--accent-hue: 184;
-	--accent-saturation: 100;
-	--accent-lightness: 38;
+	--accent-saturation: 100%;
+	--accent-lightness: 38%;
 	--accent-opacity: 1;
 	--accent-text-color: #AAA; /*	-	*/
 
