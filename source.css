@@ -2097,14 +2097,12 @@ body {
 }
 .wrapper__09ecc.mentioned__58017 {
   border-color: hsla(var(--mention-hsl), var(--mention-opacity));
-  box-shadow: inset 0px 0px 10px 3px hsla(var(--mention-hsl), var(--mention-opacity)), 0px 0px 13px 4px hsla(var(--mention-hsl), var(--mention-opacity));
 }
 .wrapper__09ecc.mentioned__58017:before {
   display: none;
 }
 .wrapper__09ecc.replying_d7b6ad {
   border-color: hsla(var(--reply-hsl), var(--reply-opacity));
-  box-shadow: inset 0px 0px 10px 3px hsla(var(--reply-hsl), var(--reply-opacity)), 0px 0px 13px 4px hsla(var(--reply-hsl), var(--reply-opacity));
 }
 .wrapper__09ecc.replying_d7b6ad:before {
   display: none;
