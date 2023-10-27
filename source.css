@@ -167,7 +167,7 @@ body {
   background-size: cover;
 }
 .container__4bde3 .content__0e954 {
-  padding: 16px;
+  padding: 1.5px;
   background-color: var(--popout-color);
   border-radius: var(--popout-radius);
   box-shadow: var(--popout-shadow);
@@ -283,7 +283,7 @@ body {
 }
 
 .container_cf0d66 {
-  width: calc(100% - 16px);
+  width: calc(100% - 1.5px);
   margin: 0 8px 8px;
   background-color: transparent;
   border-radius: var(--popout-radius);
